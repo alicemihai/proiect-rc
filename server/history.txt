@@ -1,0 +1,6 @@
+alice: hei buna
+alice: ce faci
+Stefan: heei
+alice: ok
+Stefan: bine tu
+alice: heei
